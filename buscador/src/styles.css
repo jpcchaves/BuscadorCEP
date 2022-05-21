@@ -77,6 +77,23 @@
     font-weight: bold;
 }
 
+.footer{
+    text-align: center;
+    margin-top: 50px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.footer-name a {
+    text-decoration: none;
+    color: lightblue;
+}
+
+.footer-name a:hover{
+    color: skyblue;
+    cursor: pointer;
+}
+
 @media(max-width: 620px){
     .title {
         font-size: 2em;
